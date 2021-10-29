@@ -1,0 +1,12 @@
+.poster2 {
+    width: 350px;
+}
+
+.poster {
+    width: 150px;
+}
+.movieDb {
+    display: flexbox;
+    width: 100%;
+    line-height: 8vh;
+}
